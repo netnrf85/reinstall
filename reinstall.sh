@@ -4,7 +4,7 @@
 
 set -eE
 confhome=https://raw.githubusercontent.com/netnrf85/reinstall/main
-confhome_cn=https://cnb.cool/netnrf85/reinstall/-/git/raw/main
+confhome_cn=https://cdn.jsdelivr.net/gh/netnrf85/reinstall@main
 # confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/bin456789/reinstall/main
 
 # 用于判断 reinstall.sh 和 trans.sh 是否兼容
